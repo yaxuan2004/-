@@ -1,0 +1,1 @@
+这是一个用python库PySimpleGUI,写的简易计算器程序,主要用到了eval工厂函数.
